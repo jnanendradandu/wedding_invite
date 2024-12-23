@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wedding Invitation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1 class="title">You're Invited!</h1>
+      <p class="couple-names">John & Jane</p>
+    </header>
+
+    <section class="details">
+      <h2>Our Story</h2>
+      <p class="story">We met on a beautiful spring day and knew right away that it was fate. After years of love and adventure, we are finally ready to take the next step in our journey together.</p>
+
+      <h2>The Wedding</h2>
+      <p class="date">Date: June 15, 2024</p>
+      <p class="venue">Venue: The Grand Ballroom, Central Park, NYC</p>
+
+      <h2>RSVP</h2>
+      <p class="rsvp">Please let us know if you can join us for this special day.</p>
+      <a href="mailto:johnandjane@example.com" class="rsvp-link">RSVP Here</a>
+    </section>
+
+    <footer>
+      <p class="footer-text">We can't wait to celebrate with you!</p>
+    </footer>
+  </div>
+
+</body>
+</html>
